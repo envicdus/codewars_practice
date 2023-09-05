@@ -7,6 +7,10 @@ Note: Empty arrays should return 0.
 
 # my solution
 
+def find_average(numbers):
+    # your code here
+    return 0 if sum(numbers) == 0 else sum(numbers)/len(numbers)
+
 # 1
 
 def find_average(numbers):
