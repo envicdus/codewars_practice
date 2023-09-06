@@ -1,6 +1,7 @@
 '''
 Grade book
-Complete the function so that it finds the average of the three scores passed to it and returns the letter value associated with that grade.
+Complete the function so that it finds the average of the three scores passed to it 
+and returns the letter value associated with that grade.
 '''
 
 ef get_grade(s1, s2, s3):
